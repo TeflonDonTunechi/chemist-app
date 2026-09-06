@@ -1,0 +1,96 @@
+/* resources/style.qss */
+QWidget {
+    background-color: #f5f6fa;
+    color: #2d2d2d;
+    font-family: "Segoe UI", "Helvetica", sans-serif;
+}
+
+/* Main window */
+QMainWindow {
+    background-color: #f5f6fa;
+}
+
+/* Top tabs */
+QTabWidget::pane {
+    border: none;
+    background: #f5f6fa;
+}
+QTabBar::tab {
+    background: #dcdde1;
+    padding: 12px 24px;
+    margin-right: 2px;
+    border-top-left-radius: 8px;
+    border-top-right-radius: 8px;
+    font-weight: bold;
+    color: #2d2d2d;
+}
+QTabBar::tab:selected {
+    background: #6c3b9e;
+    color: white;
+}
+QTabBar::tab:hover:!selected {
+    background: #b2bec3;
+}
+
+/* Buttons */
+QPushButton {
+    background-color: #6c3b9e;
+    border: none;
+    padding: 10px 24px;
+    border-radius: 6px;
+    color: white;
+    font-weight: bold;
+    font-size: 14px;
+}
+QPushButton:hover {
+    background-color: #8a4fc7;
+}
+QPushButton:pressed {
+    background-color: #4a2a6e;
+}
+
+/* Line edits, combos, spinboxes */
+QLineEdit, QSpinBox, QDateEdit, QComboBox {
+    background-color: white;
+    border: 1px solid #dcdde1;
+    padding: 8px 12px;
+    border-radius: 6px;
+    font-size: 14px;
+}
+QLineEdit:focus, QSpinBox:focus, QDateEdit:focus, QComboBox:focus {
+    border: 2px solid #6c3b9e;
+}
+
+/* Tables */
+QTableWidget {
+    background-color: white;
+    alternate-background-color: #f8f9fa;
+    gridline-color: #e0e0e0;
+    border-radius: 8px;
+}
+QHeaderView::section {
+    background-color: #4a6a8a;
+    color: white;
+    padding: 8px;
+    font-weight: bold;
+}
+QTableWidget::item {
+    padding: 6px;
+}
+
+/* Dashboard cards – styles are set in code, but we can keep generic */
+#card {
+    border-radius: 12px;
+    padding: 20px;
+    color: white;
+}
+#card QLabel {
+    color: white;
+}
+
+/* Login dialog – ensure text is visible */
+QLabel#login_title {
+    font-size: 28px;
+    font-weight: bold;
+    color: #6c3b9e;
+}

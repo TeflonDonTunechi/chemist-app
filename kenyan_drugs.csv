@@ -1,0 +1,21 @@
+brand_name,drug_name,strength,dosing_bands,moa,unit_price
+Amoxil,Amoxicillin,500mg,"Adult: 1 cap 8 hourly","Inhibits cell wall synthesis",500.00
+Augmentin,Amoxicillin/Clavulanate,625mg,"Adult: 1 tab 12 hourly","Beta-lactamase inhibitor",1200.00
+Ciprobay,Ciprofloxacin,500mg,"Adult: 1 tab 12 hourly","Inhibits DNA gyrase",650.00
+Doxycycline,Doxycycline,100mg,"Adult: 1 cap 12 hourly","Inhibits protein synthesis",400.00
+Flagyl,Metronidazole,400mg,"Adult: 1 tab 8 hourly","Disrupts DNA",350.00
+Zithromax,Azithromycin,500mg,"Adult: 1 tab daily for 3 days","Inhibits protein synthesis",1500.00
+Panadol,Paracetamol,500mg,"Adult: 1-2 tabs 6 hourly","COX inhibitor",100.00
+Brufen,Ibuprofen,400mg,"Adult: 1 tab 8 hourly","COX inhibitor",250.00
+Voltaren,Diclofenac,50mg,"Adult: 1 tab 8 hourly","COX inhibitor",300.00
+Piriton,Chlorpheniramine,4mg,"Adult: 1 tab 6 hourly","Antihistamine",150.00
+Cetirizine,Cetirizine,10mg,"Adult: 1 tab daily","Antihistamine",200.00
+Loratadine,Loratadine,10mg,"Adult: 1 tab daily","Antihistamine",180.00
+Omeprazole,Omeprazole,20mg,"Adult: 1 cap daily","Proton pump inhibitor",400.00
+Metformin,Metformin,500mg,"Adult: 1 tab 12 hourly","Insulin sensitizer",300.00
+Glibenclamide,Glibenclamide,5mg,"Adult: 1 tab daily","Sulfonylurea",200.00
+Atorvastatin,Atorvastatin,20mg,"Adult: 1 tab daily","HMG-CoA reductase inhibitor",800.00
+Enalapril,Enalapril,5mg,"Adult: 1 tab daily","ACE inhibitor",500.00
+Amlodipine,Amlodipine,5mg,"Adult: 1 tab daily","Calcium channel blocker",450.00
+Hydrochlorothiazide,HCTZ,25mg,"Adult: 1 tab daily","Thiazide diuretic",150.00
+Furosemide,Furosemide,40mg,"Adult: 1 tab daily","Loop diuretic",200.00

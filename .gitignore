@@ -1,0 +1,52 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+venv/
+env/
+ENV/
+.venv
+*.egg-info/
+dist/
+build/
+*.egg
+
+# Database
+*.db
+*.sqlite
+*.sqlite3
+data/
+!data/.gitkeep
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Build artifacts
+packaging/
+*.deb
+*.rpm
+*.tar.gz
+*.zip
+*.AppImage
+rpmbuild/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+*.pdf
+*.csv
+!drug_template.csv
+!kenyan_drugs.csv
+
+# Temporary files
+*.tmp
+/tmp/

@@ -1,0 +1,7 @@
+PyQt6
+SQLAlchemy
+reportlab
+bcrypt
+werkzeug
+python-dotenv
+requests
