@@ -75,4 +75,4 @@ Contributions, bug reports, and feature requests are welcome. Please open an iss
 
 ## License
 
-Specify your license here (e.g. MIT, GPL-3.0). If unsure, [choosealicense.com](https://choosealicense.com) can help you pick one.
+This project is licensed under the [MIT License](LICENSE) — free to use, modify, and distribute, including for commercial purposes.
